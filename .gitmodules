@@ -1,0 +1,3 @@
+[submodule "subPro1"]
+	path = subPro1
+	url = https://github.com/yanyajun/subPro1.git
